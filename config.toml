@@ -21,3 +21,8 @@ newline="all"
 render=true
 charachter="|"
 skip-levels=1
+
+[editor.cursor-shape]
+insert="bar"
+normal="block"
+select="underline"
