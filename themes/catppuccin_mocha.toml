@@ -19,7 +19,7 @@
 "comment" = { fg = "overlay2", modifiers = ["italic"] }
 
 "variable" = "text"
-"variable.parameter" = { fg = "maroon", modifiers = ["italic"] }
+"variable.parameter" = { fg = "maroon", modifiers = ["italic"],underline={style="line"} }
 "variable.builtin" = "red"
 "variable.other.member" = "teal"
 

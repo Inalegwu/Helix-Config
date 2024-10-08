@@ -1,7 +1,7 @@
-theme="catppuccin_mocha"
+theme="tokyonight"
 
 [editor]
-mouse=false
+# mouse=false
 line-number="relative"
 gutters=["diff","diagnostics"]
 
