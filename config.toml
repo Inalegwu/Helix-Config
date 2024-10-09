@@ -1,4 +1,5 @@
-theme="tokyonight"
+# theme="catppuccin_mocha"
+theme="everforest_dark"
 
 [editor]
 # mouse=false
