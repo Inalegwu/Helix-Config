@@ -1,5 +1,5 @@
-theme="catppuccin_mocha"
-# theme="everforest_dark"
+# theme="catppuccin_mocha"
+theme="everforest_dark"
 
 [editor]
 # mouse=false
