@@ -79,7 +79,7 @@ hint = { fg = "hint" }
 "ui.menu" = { bg = "bg-menu", fg = "fg" }
 "ui.menu.selected" = { bg = "fg-selected" }
 "ui.popup" = { bg = "bg-menu", fg = "border-highlight" }
-"ui.selection" = { bg = "bg-selection" }
+"ui.selection" = { bg = "" }
 "ui.selection.primary" = { bg = "bg-selection" }
 "ui.statusline" = { bg = "bg-menu", fg = "fg-dark" }
 "ui.statusline.inactive" = { bg = "bg-menu", fg = "fg-gutter" }
