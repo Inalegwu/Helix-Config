@@ -8,13 +8,14 @@ keyword = "brightMint"
 "keyword.storage.modifier" = "lowerMint"
 "keyword.other" = "brightMint"
 "keyword.operator" = "desaturatedBlue"
-namespace = "lightBlue"
+"keyword.control.conditional"={fg="desaturatedBlue",modifiers=["italic"]}
+namespace = {fg="lightBlue",modifiers="italic"}
 punctuation = "gray"
 "punctuation.bracket" = "desaturatedBlue"
 operator = "desaturatedBlue"
 special = "desaturatedBlue"
 variable = "offWhite"
-"variable.parameter" = { fg = "offWhite" }
+"variable.parameter" = { fg = "offWhite",modifiers=["italic"] }
 "variable.builtin" = { fg = "lightBlue", modifiers = ["italic"] }
 "variable.other" = "offWhite"
 type = { fg = "gray.c0" }

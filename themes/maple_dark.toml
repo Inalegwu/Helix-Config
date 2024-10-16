@@ -1,0 +1,867 @@
+[comment]
+foreground = "#808080"
+background = ""
+
+["punctuation.definition.comment"]
+foreground = "#808080"
+background = ""
+
+["string.comment"]
+foreground = "#808080"
+background = ""
+
+["delimiter.bracket"]
+foreground = "#c2dcfa"
+background = ""
+
+[delimiter]
+foreground = "#c2dcfa"
+background = ""
+
+["invalid.illegal.character-not-allowed-here.html"]
+foreground = ""
+background = ""
+
+["keyword.operator.rest"]
+foreground = "#c2dcfa"
+background = ""
+
+["keyword.operator.spread"]
+foreground = "#c2dcfa"
+background = ""
+
+["keyword.operator.type.annotation"]
+foreground = "#c2dcfa"
+background = ""
+
+["keyword.operator.relational"]
+foreground = "#c2dcfa"
+background = ""
+
+["keyword.operator.assignment"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.tag.block.any.html"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.tag.inline.any.html"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.tag.structure.input.void.html"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.type.annotation"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.embedded.block.github-actions-expression"]
+foreground = "#c2dcfa"
+background = ""
+
+["storage.type.function.arrow"]
+foreground = ""
+background = ""
+
+["keyword.operator.type"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.objectliteral.ts"]
+foreground = "#c2dcfa"
+background = ""
+
+[punctuation]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.brace"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.attribute punctuation.separator"]
+foreground = "#c2dcfa"
+background = ""
+
+["punctuation.terminator"]
+foreground = "#c2dcfacc"
+background = ""
+
+["punctuation.separator"]
+foreground = "#c2dcfacc"
+background = ""
+
+[constant]
+foreground = "#f4b89a"
+background = ""
+
+["support.constant"]
+foreground = "#f4b89a"
+background = ""
+
+["entity.name.constant"]
+foreground = "#f4b89a"
+background = ""
+
+["variable.language"]
+foreground = "#f4b89a"
+background = ""
+
+["meta.definition.variable"]
+foreground = "#f4b89a"
+background = ""
+
+[entity]
+foreground = "#85c2ff"
+background = ""
+
+["entity.name"]
+foreground = "#85c2ff"
+background = ""
+
+["variable.parameter.function"]
+foreground = "#85c2ff"
+background = ""
+
+["meta.body.function.definition.special"]
+foreground = "#85c2ff"
+background = ""
+
+["support.function"]
+foreground = "#85c2ff"
+background = ""
+
+["meta.function"]
+foreground = "#85c2ff"
+background = ""
+
+["meta.function-call.python"]
+foreground = "#85c2ff"
+background = ""
+
+["entity.name.tag"]
+foreground = "#f49a9a"
+background = ""
+
+["tag.html"]
+foreground = "#f49a9a"
+background = ""
+
+["entity.name.function"]
+foreground = "#85c2ff"
+background = ""
+
+[keyword]
+foreground = "#c5bef9"
+background = ""
+
+["storage.type.java"]
+foreground = ""
+background = ""
+
+["entity.name.package"]
+foreground = "#c5bef9"
+background = ""
+
+["entity.name.import"]
+foreground = "#c5bef9"
+background = ""
+
+["keyword.operator.expression.infer"]
+foreground = "#c5bef9"
+background = ""
+
+["keyword.operator.expression.is.ts"]
+foreground = "#c5bef9"
+background = ""
+
+["keyword.control.satisfies"]
+foreground = "#c5bef9"
+background = ""
+
+["keyword.control.as.ts"]
+foreground = "#c5bef9"
+background = ""
+
+["storage.type.annotation.java"]
+foreground = "#85c2ff"
+background = ""
+
+[storage]
+foreground = "#c5bef9"
+background = ""
+
+["storage.type"]
+foreground = ""
+background = ""
+
+["support.type.builtin"]
+foreground = "#c5bef9"
+background = ""
+
+["constant.language.undefined"]
+foreground = "#c5bef9"
+background = ""
+
+["constant.language.null"]
+foreground = "#c5bef9"
+background = ""
+
+[string]
+foreground = "#9ad6a4"
+background = ""
+
+["string punctuation.section.embedded source"]
+foreground = "#9ad6a4"
+background = ""
+
+["attribute.value"]
+foreground = "#9ad6a4"
+background = ""
+
+["meta.attribute-selector.scss"]
+foreground = "#9ad6a4"
+background = ""
+
+["entity.name.import.go"]
+foreground = "#9ad6a4"
+background = ""
+
+["punctuation.definition.string"]
+foreground = "#9ad6a4b3"
+background = ""
+
+["punctuation.support.type.property-name"]
+foreground = "#9ad6a4b3"
+background = ""
+
+[support]
+foreground = "#e3d5c9"
+background = ""
+
+[property]
+foreground = "#e3d5c9"
+background = ""
+
+["meta.property-name"]
+foreground = "#e3d5c9"
+background = ""
+
+["meta.attribute"]
+foreground = "#e3d5c9"
+background = ""
+
+["meta.object-literal.key"]
+foreground = "#e3d5c9"
+background = ""
+
+["attribute.name"]
+foreground = "#e3d5c9"
+background = ""
+
+["entity.other.attribute-name"]
+foreground = "#e3d5c9"
+background = ""
+
+["variable.other.object.property"]
+foreground = "#e3d5c9"
+background = ""
+
+["variable.other.property"]
+foreground = "#e3d5c9"
+background = ""
+
+["entity.name.tag.yaml"]
+foreground = "#f4d09a"
+background = ""
+
+["meta.attribute entity.other.attribute-name.html"]
+foreground = "#f4d09a"
+background = ""
+
+["source.css entity.other.attribute-name"]
+foreground = "#f4d09a"
+background = ""
+
+["source.css support.type.property-name.media"]
+foreground = "#f4d09a"
+background = ""
+
+["entity.other.attribute-name.tsx"]
+foreground = "#f4d09a"
+background = ""
+
+["entity.other.attribute-name.js"]
+foreground = "#f4d09a"
+background = ""
+
+["entity.other.attribute-name.xml"]
+foreground = "#f4d09a"
+background = ""
+
+["source.css support.type.property-name"]
+foreground = "#e3d5c9"
+background = ""
+
+[variable]
+foreground = "#f4d09a"
+background = ""
+
+[identifier]
+foreground = "#f4d09a"
+background = ""
+
+["constant.other.table-name"]
+foreground = "#f4d09a"
+background = ""
+
+["invalid.deprecated.entity.other.attribute-name.html"]
+foreground = ""
+background = ""
+
+["support.type.property-name.json"]
+foreground = "#f4d09a"
+background = ""
+
+["support.type.property-name.toml"]
+foreground = "#f4d09a"
+background = ""
+
+["support.type.property-name.array.toml"]
+foreground = "#f4d09a"
+background = ""
+
+["keyword.other.definition.ini"]
+foreground = "#f4d09a"
+background = ""
+
+["variable.other.normal.shell"]
+foreground = "#f4d09a"
+background = ""
+
+["support.type.primitive"]
+foreground = "#c5bef9"
+background = ""
+
+["entity.name.type.instance.jsdoc"]
+foreground = "#c5bef9"
+background = ""
+
+["entity.name.type.parameter"]
+foreground = "#f4d09a"
+background = ""
+
+["entity.name.type.parameter.cpp"]
+foreground = "#f4b89a"
+background = ""
+
+["entity.name.type.ts"]
+foreground = "#f4b89a"
+background = ""
+
+["meta.type keyword.operator.expression.typeof"]
+foreground = "#c5bef9"
+background = ""
+
+["meta.type keyword.operator.expression.keyof"]
+foreground = "#c5bef9"
+background = ""
+
+[namespace]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.operator"]
+foreground = "#c2dcfa"
+background = ""
+
+["keyword.operator.assignment.compound"]
+foreground = "#c2dcfa"
+background = ""
+
+["meta.var.expr.ts"]
+foreground = "#c2dcfa"
+background = ""
+
+[invalid]
+foreground = "#f49a9a"
+background = ""
+
+["message.error"]
+foreground = "#f49a9a"
+background = ""
+
+["string variable"]
+foreground = "#9ad6a4"
+background = ""
+
+["source.regexp"]
+foreground = "#9ad6a4"
+background = ""
+
+["string.regexp"]
+foreground = "#9ad6a4"
+background = ""
+
+["string.regexp punctuation.definition.string"]
+foreground = ""
+background = ""
+
+["keyword.control.anchor.regexp"]
+foreground = ""
+background = ""
+
+["storage.modifier.reference"]
+foreground = ""
+background = ""
+
+["punctuation.definition.character-class.regexp"]
+foreground = "#c2dcfa"
+background = ""
+
+["string.regexp.character-class"]
+foreground = "#85c2ff"
+background = ""
+
+["constant.character.escape"]
+foreground = "#85c2ff"
+background = ""
+
+["constant.other.character-class.regexp"]
+foreground = "#85c2ff"
+background = ""
+
+["string.regexp string.regexp.arbitrary-repitition"]
+foreground = "#85c2ff"
+background = ""
+
+["string.regexp constant.character.escape"]
+foreground = "#85c2ff"
+background = ""
+
+["constant.other.placeholder"]
+foreground = "#85c2ff"
+background = ""
+
+["constant.numeric"]
+foreground = "#dcf49a"
+background = ""
+
+["constant.numeric.hex storage.type.number"]
+foreground = "#dcf49a"
+background = ""
+
+[number]
+foreground = "#dcf49a"
+background = ""
+
+["entity.other.attribute-name.pseudo-class.css"]
+foreground = "#85c2ff"
+background = ""
+
+["entity.other.attribute-name.pseudo-element.css"]
+foreground = "#85c2ff"
+background = ""
+
+["punctuation.definition.entity.css"]
+foreground = "#85c2ff"
+background = ""
+
+["source.css variable"]
+foreground = "#a8f0f0"
+background = ""
+
+["keyword.other.unit"]
+foreground = "#85c2ff"
+background = ""
+
+["source.css support.function"]
+foreground = "#c5bef9"
+background = ""
+
+["constant.language.boolean"]
+foreground = "#c5bef9"
+background = ""
+
+["constant.language"]
+foreground = "#c5bef9"
+background = ""
+
+["meta.module-reference"]
+foreground = "#85c2ff"
+background = ""
+
+["entity.name.section"]
+foreground = "#c5bef9"
+background = ""
+
+["punctuation.definition.list.begin.markdown"]
+foreground = "#c2dcfa"
+background = ""
+
+["markup.heading"]
+foreground = "#c5bef9"
+background = ""
+
+["markup.heading entity.name"]
+foreground = "#c5bef9"
+background = ""
+
+["markup.quote"]
+foreground = "#a8f0f0"
+background = ""
+
+["markup.italic"]
+foreground = "#f4b89a"
+background = ""
+
+["markup.bold"]
+foreground = "#f4b89a"
+background = ""
+
+["markup.inline.raw"]
+foreground = "#f49a9a"
+background = ""
+
+["fenced_code.block.language.markdown"]
+foreground = "#f49a9a"
+background = ""
+
+["fenced_code.block.language"]
+foreground = "#f49a9a"
+background = ""
+
+["markup.deleted"]
+foreground = "#f49a9a"
+background = ""
+
+["punctuation.definition.deleted"]
+foreground = "#f49a9a"
+background = ""
+
+["markup.inserted"]
+foreground = "#9ad6a4"
+background = ""
+
+["punctuation.definition.inserted"]
+foreground = "#9ad6a4"
+background = ""
+
+["markup.changed"]
+foreground = "#f4d09a"
+background = ""
+
+["punctuation.definition.changed"]
+foreground = "#f4d09a"
+background = ""
+
+["markup.ignored"]
+foreground = "#808080"
+background = ""
+
+["markup.untracked"]
+foreground = "#808080"
+background = ""
+
+["meta.diff.range"]
+foreground = "#c5bef9"
+background = ""
+
+["meta.diff.header"]
+foreground = "#85c2ff"
+background = ""
+
+["meta.separator"]
+foreground = "#85c2ff"
+background = ""
+
+["meta.output"]
+foreground = "#85c2ff"
+background = ""
+
+["brackethighlighter.tag"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.curly"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.round"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.square"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.angle"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.quote"]
+foreground = "#c2dcfa"
+background = ""
+
+["brackethighlighter.unmatched"]
+foreground = "#f49a9a"
+background = ""
+
+["constant.other.reference.link"]
+foreground = "#85c2ff"
+background = ""
+
+["string.other.link"]
+foreground = "#85c2ff"
+background = ""
+
+["punctuation.definition.string.begin.markdown"]
+foreground = "#85c2ff"
+background = ""
+
+["punctuation.definition.string.end.markdown"]
+foreground = "#85c2ff"
+background = ""
+
+["markup.heading.setext"]
+foreground = "#85c2ff"
+background = ""
+
+["string.other.link.description"]
+foreground = "#9ad6a4"
+background = ""
+
+["string.other.link.title"]
+foreground = "#9ad6a4"
+background = ""
+
+["variable.other.link.underline"]
+foreground = ""
+background = ""
+
+["markup.underline.link.markdown"]
+foreground = "#85c2ff"
+background = ""
+
+["markup.underline.link.image.markdown"]
+foreground = "#85c2ff"
+background = ""
+
+["variable.parameter"]
+foreground = "#f4d09a"
+background = ""
+
+["variable.other.jsdoc"]
+foreground = "#f4d09a"
+background = ""
+
+["meta.import variable"]
+foreground = "#f4d09a"
+background = ""
+
+["type.identifier"]
+foreground = "#a8f0f0"
+background = ""
+
+["entity.other.inherited-class"]
+foreground = "#a8f0f0"
+background = ""
+
+["entity.name.type.class"]
+foreground = "#a8f0f0"
+background = ""
+
+["entity.name.type.module"]
+foreground = "#a8f0f0"
+background = ""
+
+["meta.parameter.initialization"]
+foreground = "#a8f0f0"
+background = ""
+
+["entity.name.section.group-title"]
+foreground = "#c5bef9"
+background = ""
+
+["support.type.property-name.table.toml"]
+foreground = "#c5bef9"
+background = ""
+
+["support.class.component.js"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.ts"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.jsx"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.tsx"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.vue"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.svelte"]
+foreground = "#a8f0f0"
+background = ""
+
+["support.class.component.astro"]
+foreground = "#a8f0f0"
+background = ""
+
+["punctuation.definition.template-expression"]
+foreground = "#a8f0f0"
+background = ""
+
+["meta.fstring.python constant.character.format.placeholder"]
+foreground = "#a8f0f0"
+background = ""
+
+["invalid.illegal.unrecognized-tag.html"]
+foreground = ""
+background = ""
+
+["keyword.control.directive"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control.import"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control.from"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control.export"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.package"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.other.package"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.import"]
+foreground = "#ebc2d8"
+background = ""
+
+["meta.use.rust keyword"]
+foreground = "#ebc2d8"
+background = ""
+
+["variable.language.this"]
+foreground = ""
+background = ""
+
+["variable.language.super"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.operator.new"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control.trycatch"]
+foreground = "#ebc2d8"
+background = ""
+
+["storage.modifier.package"]
+foreground = "#ebc2d8"
+background = ""
+
+["storage.modifier.import"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.operator.expression.import"]
+foreground = "#ebc2d8"
+background = ""
+
+["source.css keyword.other.important"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.other.using"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control.import.python"]
+foreground = "#c5bef9"
+background = ""
+
+["keyword.control.ternary.java"]
+foreground = "#ebc2d8"
+background = ""
+
+["keyword.control"]
+foreground = ""
+background = ""
+
+["keyword.function"]
+foreground = ""
+background = ""
+
+["storage.modifier"]
+foreground = ""
+background = ""
+
+["source.go storage.type"]
+foreground = ""
+background = ""
+
+["keyword.channel.go"]
+foreground = ""
+background = ""
+
+["punctuation.definition.string.template"]
+foreground = ""
+background = ""
+
+["source.java storage.type.primitive"]
+foreground = ""
+background = ""
+
+["source.java variable.parameter"]
+foreground = ""
+background = ""
+
+["storage.type.object.array.java"]
+foreground = "#f4b89a"
+background = ""
+
+["meta.class.java storage.type.java"]
+foreground = "#f4b89a"
+background = ""
+
+["entity.name.type.class.java"]
+foreground = "#f4b89a"
+background = ""
+
+["entity.name.namespace"]
+foreground = "#f4d09a"
+background = ""
+
+["meta.jsx.children"]
+foreground = "#cbd5e1"
+background = ""
+
+["ui.background"]
+foreground = "#cbd5e1"
+background = "#1e1e1f"
+
+["ui.selection"]
+foreground = "#1e1e1f"
+
