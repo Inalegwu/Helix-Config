@@ -72,7 +72,7 @@ hint = { fg = "hint" }
 "ui.background"={fg="fg"}
 "ui.cursor" = { modifiers = ["reversed"] }
 "ui.cursor.match" = { fg = "orange", modifiers = ["bold"] }
-"ui.cursorline.primary" = { bg = "bg-menu" }
+# "ui.cursorline.primary" = { bg = "bg-menu" }
 "ui.help" = { bg = "bg-menu", fg = "fg" }
 "ui.linenr" = { fg = "fg-gutter" }
 "ui.linenr.selected" = { fg = "fg-linenr" }
